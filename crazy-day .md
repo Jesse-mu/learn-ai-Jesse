@@ -20,3 +20,7 @@
 # 打印一句话
 
 print("Hello,this is my crazy day!")
+
+## 插入图片
+
+！[ 我的照片 ]（photo.jpg）
