@@ -14,12 +14,12 @@
 | 09:00 | 学习 Git 与 GitHub | ✅ |
 | 11:00 | 写 task0 作业 | ⏳ |
 
+## 插入图片
+
+![ 我的照片 ](photo.jpg)
+
 ## 一段测试代码
 
 ```python
 # 打印一句话
 print("Hello, this is my crazy day!")
-
-## 插入图片
-
-![ 我的照片 ](photo.jpg)
